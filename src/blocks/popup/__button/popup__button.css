@@ -25,19 +25,3 @@
     line-height: 17px;
   }
 }
-
-.popup__button_disabled {
-    background-color: #ccc; /* Use the color from your design */
-    cursor: not-allowed;
-}
-
-.popup__input-error {
-    color: #FF0000; /* Red color for error text */
-    font-size: 12px;
-    margin-top: 5px;
-    display: none;
-}
-
-.popup__input-error_active {
-    display: block;
-}
